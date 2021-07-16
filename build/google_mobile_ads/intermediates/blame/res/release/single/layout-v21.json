@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/google_mobile_ads/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/3f5b7f9faf1ed93d06e55d9c253ad0fe/core-1.2.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/google_mobile_ads/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/3f5b7f9faf1ed93d06e55d9c253ad0fe/core-1.2.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/google_mobile_ads/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/3f5b7f9faf1ed93d06e55d9c253ad0fe/core-1.2.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/google_mobile_ads/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/3f5b7f9faf1ed93d06e55d9c253ad0fe/core-1.2.0/res/layout-v21/notification_action.xml"
+    }
+]

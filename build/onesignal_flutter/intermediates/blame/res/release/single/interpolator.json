@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/dc701437db8f7dc7088cde529f2f3f8c/appcompat-1.4.0-alpha03/res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/dc701437db8f7dc7088cde529f2f3f8c/appcompat-1.4.0-alpha03/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/dc701437db8f7dc7088cde529f2f3f8c/appcompat-1.4.0-alpha03/res/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/interpolator/fast_out_slow_in.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/dc701437db8f7dc7088cde529f2f3f8c/appcompat-1.4.0-alpha03/res/interpolator/fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/dc701437db8f7dc7088cde529f2f3f8c/appcompat-1.4.0-alpha03/res/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/dc701437db8f7dc7088cde529f2f3f8c/appcompat-1.4.0-alpha03/res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/dc701437db8f7dc7088cde529f2f3f8c/appcompat-1.4.0-alpha03/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml"
+    }
+]

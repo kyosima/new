@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/incremental/mergeReleaseResources/merged.dir/values-v28/values-v28.xml",
+            "map": [
+                {
+                    "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/dc701437db8f7dc7088cde529f2f3f8c/appcompat-1.4.0-alpha03/res/values-v28/values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,447",
+                        "endLines": "2,3,7,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,442,684"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/values-v28/values-v28.xml",
+            "map": [
+                {
+                    "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/dc701437db8f7dc7088cde529f2f3f8c/appcompat-1.4.0-alpha03/res/values-v28/values-v28.xml",
+                    "from": {
+                        "startLines": "2,3,4,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,447",
+                        "endLines": "2,3,7,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,442,684"
+                    }
+                }
+            ]
+        }
+    ]
+}

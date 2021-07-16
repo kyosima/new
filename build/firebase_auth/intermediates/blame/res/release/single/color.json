@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/firebase_auth/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/d5e87eec1c9cff38a1ff28192a5a210e/jetified-play-services-base-17.1.0/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/firebase_auth/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/d5e87eec1c9cff38a1ff28192a5a210e/jetified-play-services-base-17.1.0/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/firebase_auth/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/d5e87eec1c9cff38a1ff28192a5a210e/jetified-play-services-base-17.1.0/res/color/common_google_signin_btn_tint.xml"
+    }
+]

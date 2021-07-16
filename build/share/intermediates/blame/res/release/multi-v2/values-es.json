@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/share/intermediates/res/merged/release/values-es/values-es.xml",
+            "map": [
+                {
+                    "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/0342712de5f4109208d047ca4e49a04d/core-1.3.1/res/values-es/values-es.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/share/intermediates/incremental/mergeReleaseResources/merged.dir/values-es/values-es.xml",
+            "map": [
+                {
+                    "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/0342712de5f4109208d047ca4e49a04d/core-1.3.1/res/values-es/values-es.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">678951901731-rsee319afb5nl09sfu1uuksfee0qsp7m.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">678951901731</string>
+    <string name="google_api_key" translatable="false">AIzaSyCIagbItaEYJY4c1uxHmAWcuG8SJ-hwMJE</string>
+    <string name="google_app_id" translatable="false">1:678951901731:android:09b1ff9769e33d1a902f96</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCIagbItaEYJY4c1uxHmAWcuG8SJ-hwMJE</string>
+    <string name="google_storage_bucket" translatable="false">mevivu-news.appspot.com</string>
+    <string name="project_id" translatable="false">mevivu-news</string>
+</resources>

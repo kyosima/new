@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/google_mobile_ads/intermediates/incremental/mergeReleaseResources/merged.dir/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/29b3ebafa846efee8dcb4b9deef0e2f1/work-runtime-2.1.0/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/google_mobile_ads/intermediates/res/merged/release/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/29b3ebafa846efee8dcb4b9deef0e2f1/work-runtime-2.1.0/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                }
+            ]
+        }
+    ]
+}

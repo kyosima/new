@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/google_mobile_ads/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/3f5b7f9faf1ed93d06e55d9c253ad0fe/core-1.2.0/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/google_mobile_ads/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/3f5b7f9faf1ed93d06e55d9c253ad0fe/core-1.2.0/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/google_mobile_ads/intermediates/res/merged/release/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/3f5b7f9faf1ed93d06e55d9c253ad0fe/core-1.2.0/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/google_mobile_ads/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/3f5b7f9faf1ed93d06e55d9c253ad0fe/core-1.2.0/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/google_mobile_ads/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/3f5b7f9faf1ed93d06e55d9c253ad0fe/core-1.2.0/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    }
+]

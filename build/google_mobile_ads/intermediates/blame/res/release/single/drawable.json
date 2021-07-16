@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/google_mobile_ads/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/3f5b7f9faf1ed93d06e55d9c253ad0fe/core-1.2.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/google_mobile_ads/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/3f5b7f9faf1ed93d06e55d9c253ad0fe/core-1.2.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/google_mobile_ads/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/3f5b7f9faf1ed93d06e55d9c253ad0fe/core-1.2.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/google_mobile_ads/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/3f5b7f9faf1ed93d06e55d9c253ad0fe/core-1.2.0/res/drawable/notification_bg_low.xml"
+    }
+]

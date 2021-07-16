@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/dc701437db8f7dc7088cde529f2f3f8c/appcompat-1.4.0-alpha03/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/dc701437db8f7dc7088cde529f2f3f8c/appcompat-1.4.0-alpha03/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]

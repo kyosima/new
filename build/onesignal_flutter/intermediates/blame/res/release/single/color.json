@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/dc701437db8f7dc7088cde529f2f3f8c/appcompat-1.4.0-alpha03/res/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/dc701437db8f7dc7088cde529f2f3f8c/appcompat-1.4.0-alpha03/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/color/abc_tint_default.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/dc701437db8f7dc7088cde529f2f3f8c/appcompat-1.4.0-alpha03/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/25fc610ee085149a4cd61b6e2833cc1a/jetified-play-services-base-17.6.0/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/dc701437db8f7dc7088cde529f2f3f8c/appcompat-1.4.0-alpha03/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/dc701437db8f7dc7088cde529f2f3f8c/appcompat-1.4.0-alpha03/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/dc701437db8f7dc7088cde529f2f3f8c/appcompat-1.4.0-alpha03/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/dc701437db8f7dc7088cde529f2f3f8c/appcompat-1.4.0-alpha03/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/dc701437db8f7dc7088cde529f2f3f8c/appcompat-1.4.0-alpha03/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/dc701437db8f7dc7088cde529f2f3f8c/appcompat-1.4.0-alpha03/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/dc701437db8f7dc7088cde529f2f3f8c/appcompat-1.4.0-alpha03/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/dc701437db8f7dc7088cde529f2f3f8c/appcompat-1.4.0-alpha03/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/25fc610ee085149a4cd61b6e2833cc1a/jetified-play-services-base-17.6.0/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/dc701437db8f7dc7088cde529f2f3f8c/appcompat-1.4.0-alpha03/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/dc701437db8f7dc7088cde529f2f3f8c/appcompat-1.4.0-alpha03/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/dc701437db8f7dc7088cde529f2f3f8c/appcompat-1.4.0-alpha03/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/color/abc_tint_spinner.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/dc701437db8f7dc7088cde529f2f3f8c/appcompat-1.4.0-alpha03/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/25fc610ee085149a4cd61b6e2833cc1a/jetified-play-services-base-17.6.0/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/dc701437db8f7dc7088cde529f2f3f8c/appcompat-1.4.0-alpha03/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/color/abc_tint_switch_track.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/dc701437db8f7dc7088cde529f2f3f8c/appcompat-1.4.0-alpha03/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/dc701437db8f7dc7088cde529f2f3f8c/appcompat-1.4.0-alpha03/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/dc701437db8f7dc7088cde529f2f3f8c/appcompat-1.4.0-alpha03/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/color/abc_tint_edittext.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/dc701437db8f7dc7088cde529f2f3f8c/appcompat-1.4.0-alpha03/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/dc701437db8f7dc7088cde529f2f3f8c/appcompat-1.4.0-alpha03/res/color/abc_primary_text_disable_only_material_dark.xml"
+    }
+]

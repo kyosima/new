@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/29558d7809111742b4751e8595338104/core-1.7.0-alpha01/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/29558d7809111742b4751e8595338104/core-1.7.0-alpha01/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/29558d7809111742b4751e8595338104/core-1.7.0-alpha01/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/onesignal_flutter/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/29558d7809111742b4751e8595338104/core-1.7.0-alpha01/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

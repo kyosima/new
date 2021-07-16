@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/image_picker/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/60892052041268f42c1f12e424f9d0ed/core-1.1.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/image_picker/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/60892052041268f42c1f12e424f9d0ed/core-1.1.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/image_picker/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/60892052041268f42c1f12e424f9d0ed/core-1.1.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/image_picker/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/60892052041268f42c1f12e424f9d0ed/core-1.1.0/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

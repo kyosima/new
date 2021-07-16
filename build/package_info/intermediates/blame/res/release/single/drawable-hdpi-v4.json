@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/package_info/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/60892052041268f42c1f12e424f9d0ed/core-1.1.0/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/package_info/intermediates/res/merged/release/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/60892052041268f42c1f12e424f9d0ed/core-1.1.0/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/package_info/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/60892052041268f42c1f12e424f9d0ed/core-1.1.0/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/package_info/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/60892052041268f42c1f12e424f9d0ed/core-1.1.0/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/kyosima/FlutterProjects/news_blog_flutter/build/package_info/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/kyosima/.gradle/caches/transforms-2/files-2.1/60892052041268f42c1f12e424f9d0ed/core-1.1.0/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    }
+]
