@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "678951901731",
+    "project_id": "mevivu-news",
+    "storage_bucket": "mevivu-news.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:678951901731:android:d115f9c6c5e0feb1902f96",
+        "android_client_info": {
+          "package_name": "com.mevivu.new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "678951901731-uors84lfi6aietiai37jvup5bn43p7n2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mevivu.new",
+            "certificate_hash": "a478627516afecf6a76c23ecd79a57d955ef9631"
+          }
+        },
+        {
+          "client_id": "678951901731-rsee319afb5nl09sfu1uuksfee0qsp7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIagbItaEYJY4c1uxHmAWcuG8SJ-hwMJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "678951901731-rsee319afb5nl09sfu1uuksfee0qsp7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
